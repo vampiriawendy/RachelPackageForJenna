@@ -2,7 +2,7 @@
   "name": "com.rachel.racheltestpackage",
   "version": "1.0.0",
   "displayName":"Racel Test Package",
-  "unity": "6000.3.6f1",
+  "unity": "6000.3",
   "author": {"name": "Rachel Mau","email": "","url": ""}
   
 }
