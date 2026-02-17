@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace com.rachel.rachelTestPackage
+namespace com.rachel.racheltestpackage
 {
     public class TestPackageBehavior : MonoBehaviour
     {
