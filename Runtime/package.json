@@ -1,0 +1,8 @@
+﻿{
+  "name": "com.rachel.rachelTestPackage",
+  "version": "1.0.0",
+  "displayName":"Racel Test Package",
+  "unity": "6000.3.6f1",
+  "author": {"name": "Rachel Mau","email": "","url": ""}
+  
+}
